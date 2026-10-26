@@ -1,2 +1,3 @@
 User-agent: *
+Allow: /privacidade.html
 Disallow: /
